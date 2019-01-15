@@ -49,10 +49,11 @@ app.post('/', function(req, res) {
 
     ()
 
+
   })
 
 
-/* ascasxadcdac
+/*
   app.get('/scrape', function(req, res){
 
     request(articleToScrape, function(error, response, html){
