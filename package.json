@@ -1,0 +1,27 @@
+{
+  "name": "coggets",
+  "version": "1.0.0",
+  "description": "Coggets 0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ThomdeBomb",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "cheerio": "*",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "metascraper": "^4.8.5",
+    "metascraper-author": "^4.8.5",
+    "metascraper-clearbit-logo": "^4.8.5",
+    "metascraper-date": "^4.8.5",
+    "metascraper-description": "^4.8.5",
+    "metascraper-image": "^4.8.5",
+    "metascraper-logo": "^4.8.5",
+    "metascraper-publisher": "^4.8.5",
+    "metascraper-title": "^4.8.5",
+    "metascraper-url": "^4.8.5"
+  }
+}
